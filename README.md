@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Jogo da Memória<h1>
-    <img width="100%" style="max-width:100%" src="https://github.com/rafaelc10/calc-imc/blob/main/src/assets/mockup.png">
+    <img width="100%" style="max-width:100%" src="https://github.com/rafaelc10/jogo-memoria/blob/main/src/assets/mockup.png">
 <p align="center">
   
 </p>
