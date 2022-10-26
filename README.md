@@ -1,7 +1,3 @@
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=blue&labelColor=grey">
-</p>
-
 <h1 align="center">Jogo da Memória<h1>
     <img width="100%" style="max-width:100%" src="https://github.com/rafaelc10/jogo-memoria/blob/main/src/assets/mockup.png">
 <p align="center">
